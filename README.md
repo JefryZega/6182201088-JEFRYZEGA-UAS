@@ -1,2 +1,5 @@
 # 6182201088-JEFRYZEGA-UAS
 UAS DASAR PEMROGRAMAN GAMES
+
+LINK UNTUK TEST GAME
+https://fascinating-churros-6cb43a.netlify.app/
