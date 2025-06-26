@@ -2,4 +2,4 @@
 UAS DASAR PEMROGRAMAN GAMES
 
 LINK UNTUK TEST GAME
-https://fascinating-churros-6cb43a.netlify.app/
+https://6182201088-jefryzega-uas.netlify.app
