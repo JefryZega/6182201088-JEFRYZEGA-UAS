@@ -13,6 +13,11 @@ https://6182201088-jefryzega-uas.netlify.app
 
 Flappy Birds adalah game side-scrolling bergaya Flappy Bird klasik yang dibuat dengan **Cocos Creator + TypeScript**. Game ini dikembangkan dalam satu scene interaktif, dengan fitur lengkap berdasarkan soal-soal UAS yang diberikan.
 
+## 📌 Catatan Penting
+Repository ini merupakan versi final dan lengkap dari project Flappy Burung saya.
+Beberapa repository sebelumnya adalah versi pengembangan/tahapan awal.
+Silakan gunakan repository ini untuk melihat hasil akhir dari seluruh implementasi fitur sesuai soal UAS
+
 ---
 
 ## ✅ Fitur Sesuai Soal UAS
