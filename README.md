@@ -1,4 +1,4 @@
-# 🐤 Flappy Burung - Proyek UAS Dasar Pemrograman Games
+# 🐤 Flappy Birds - Proyek UAS Dasar Pemrograman Games
 
 LINK UNTUK TEST GAME
 https://6182201088-jefryzega-uas.netlify.app
@@ -11,7 +11,7 @@ https://6182201088-jefryzega-uas.netlify.app
 
 ## 🎯 Deskripsi Singkat
 
-Flappy Burung adalah game side-scrolling bergaya Flappy Bird klasik yang dibuat dengan **Cocos Creator + TypeScript**. Game ini dikembangkan dalam satu scene interaktif, dengan fitur lengkap berdasarkan soal-soal UAS yang diberikan.
+Flappy Birds adalah game side-scrolling bergaya Flappy Bird klasik yang dibuat dengan **Cocos Creator + TypeScript**. Game ini dikembangkan dalam satu scene interaktif, dengan fitur lengkap berdasarkan soal-soal UAS yang diberikan.
 
 ---
 
