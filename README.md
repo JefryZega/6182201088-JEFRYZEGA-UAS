@@ -11,7 +11,7 @@ https://6182201088-jefryzega-uas.netlify.app
 
 ![Design preview for the Flappy Birds](./preview-1.png)
 
---
+---
 
 ## 🎯 Deskripsi Singkat
 
