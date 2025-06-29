@@ -10,8 +10,6 @@ https://6182201088-jefryzega-uas.netlify.app
 ---
 
 ![Design preview for the Flappy Birds](./preview-1.png)
-![Preview 2](./preview-2.png)
-![Preview 3](./preview-3.png)
 
 --
 
@@ -73,5 +71,10 @@ Silakan gunakan repository ini untuk melihat hasil akhir dari seluruh implementa
 - 🧠 Bahasa: TypeScript
 - 💾 Penyimpanan lokal: `localStorage`
 - 🎨 SpriteFrame Management, Animation, UI System, Particle Effect
+
+---
+
+![Preview 2](./preview-2.png)
+![Preview 3](./preview-3.png)
 
 ---
