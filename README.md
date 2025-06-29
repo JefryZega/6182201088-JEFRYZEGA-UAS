@@ -10,8 +10,6 @@ https://6182201088-jefryzega-uas.netlify.app
 ---
 
 ![Design preview for the Flappy Birds](./preview-1.jpg)
-![Preview 2](./preview-2.jpg)
-![Preview 3](./preview-3.jpg)
 
 --
 
